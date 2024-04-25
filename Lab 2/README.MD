@@ -1,0 +1,1 @@
+I'm not sure what happened with this Lab... My hard drive that contained my problems got a bad sector in exactly the location Labs 2 was located and on top of that the FCSE professors that set permissions and assign Laboratory exercises forgot to keep the 2nd one active, so the problems in it are gone.
